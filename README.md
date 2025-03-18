@@ -1,5 +1,29 @@
 # MADE BY MUZ ADD ME ON DISCORD FOR HELP THE USERNAME IS g8ng 
-hi guys >.< i've got loads of skids in my dms asking on how you get auto react n allat so i thought i might as well release this to the public n let yall have some fun with it
-MAKE SURE YOU JOIN /flaws love to all of you 
-DISCLAIMER: i am not responsible for any bans / account terminations a discord selfbot is against tos
-# MAKE SURE YOUR ON PYTHON VERSION 3.10 OR LOWER
+# 📝 Description
+Muz client is a discord selfbot with many features that has now been released to the public to prevent selling and skidding >_<
+
+# ⚠️ Disclaimer
+Please note that using selfbots is against Discord's Terms of Service. Use this code at your own risk. I am  not responsible for any consequences that may come from using this software.
+
+#🔧 Requirements
+python 3.10
+discord.py
+discord.py==1.7.3
+colorama
+
+# 📚 Tutorial
+A detailed tutorial can be found here https://www.youtube.com/watch?v=znKs9CxwN3E&t=133s
+
+# 🤝 Community & Support
+Join discord.gg/says (my server) or add @g8ng on discord for support / help
+
+R🚀 Getting Started
+1. install python 3.10
+2. install the pip packages
+3. put your token in
+4. run it
+
+
+# ⭐ Credits
+Muz @g8ng
+This code is now  available to the public. Respect me the creator by not attempting to resell this code.
