@@ -1,4 +1,4 @@
-# MADE BY MUZ ADD ME ON DISCORD FOR HELP THE USERNAME IS rjq.
+# MADE BY MUZ ADD ME ON DISCORD FOR HELP THE USERNAME IS g8ng
 # 📝 Description
 Muz client is a discord selfbot with many features that has now been released to the public to prevent selling and skidding >_<
 
