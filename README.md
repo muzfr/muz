@@ -1,6 +1,6 @@
-# MADE BY MUZ ADD ME ON DISCORD FOR HELP  @vebc
+# MADE BY MUZ ADD ME ON DISCORD FOR HELP @overflying
 # 📝 Description
-Muz client is a discord selfbot with many features that has now been released to the public to prevent selling and skidding >_<
+Muz client is a discord selfbot with many features that has now been released to the public to prevent selling and skidding.
 
 # ⚠️ Disclaimer
 Please note that using selfbots is against Discord's Terms of Service. Use this code at your own risk. I am  not responsible for any consequences that may come from using this software.
