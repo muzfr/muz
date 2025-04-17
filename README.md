@@ -1,4 +1,4 @@
-# MADE BY MUZ ADD ME ON DISCORD FOR HELP @overflying
+# MADE BY MUZ ADD ME ON DISCORD FOR HELP @separability
 # 📝 Description
 Muz client is a discord selfbot with many features that has now been released to the public to prevent selling and skidding.
 
@@ -25,5 +25,5 @@ Join discord.gg/says (my server) or add @g8ng on discord for support / help
 
 
 # ⭐ Credits
-Muz @g8ng
+Muz @separability
 This code is now  available to the public. Respect me the creator by not attempting to resell this code.
