@@ -26,5 +26,5 @@ Join discord.gg/says (my server) or add @g8ng on discord for support / help
 
 
 # ⭐ Credits
-Muz @85pw
+Muz @decmber31
 This code is now available to the public. Respect me the creator by not attempting to resell this code.
