@@ -16,7 +16,7 @@ colorama
 A detailed tutorial can be found here https://www.youtube.com/watch?v=znKs9CxwN3E&t=133s
 
 # 🤝 Community & Support
-Join discord.gg/says (my server) or add @g8ng on discord for support / help
+add @decmber31 for support and help (on discord)
 
 # 🚀 Getting Started
 1. install python 3.10
