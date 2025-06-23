@@ -26,5 +26,5 @@ add @decmber31 for support and help (on discord)
 
 
 # ⭐ Credits
-Muz @decmber31
+Muz @funnyokay
 This code is now available to the public. Respect me the creator by not attempting to resell this code.
