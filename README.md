@@ -1,4 +1,4 @@
-if you need help, hmu on discord: @decmber31
+if you need help, hmu on discord: @imneverenough
 
 # Description
 discord selfbot with many features that has now been released to the public to prevent selling and skidding.
